@@ -14,6 +14,8 @@ This project studies how estimation uncertainty affects mean-variance portfolio 
 
 \- `notebooks/` - main analysis notebook
 
+\- `reports/` - html export of Jupyter notebook and PPT presentation
+
 
 
 \## Main methods
